@@ -7,7 +7,7 @@ I turn data into decisions: data cleaning and analysis, visualization, and machi
 - 🔭 Looking for my first opportunity in data science / data analysis
 - 🌱 Practicing every day with real projects
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brenda-nelly-campos-cobe%C3%B1as-3b84b230a/) · 📧 brenda17bcc@gmail.com
-- - 🗣️ Languages: Spanish (native), English (B1 — improving every day)
+- 🗣️ Languages: Spanish (native), English (A2 — actively improving)
 
 ## 🛠️ Tech Stack
 
