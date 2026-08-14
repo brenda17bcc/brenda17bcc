@@ -6,7 +6,7 @@ Convierto datos en decisiones: limpieza y análisis de datos, visualización y m
 
 - 🔭 Buscando mi primera oportunidad en data science / análisis de datos
 - 🌱 Practicando cada día con proyectos reales
-- 📫 Contáctame: [LinkedIn]([https://linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/brenda-nelly-campos-cobe%C3%B1as-3b84b230a/)) · brenda17bcc@gmail.com
+- - 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/tu-usuario-real) · 📧 brenda17bcc@gmail.com
 
 ## 🛠️ Tecnologías
 
