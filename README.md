@@ -1,24 +1,26 @@
-# Hola, soy Brenda 👋
+# Hi, I'm Brenda 👋
 
-**Data Scientist / Machine Learning** · Graduada del bootcamp de Data Science & Machine Learning en 4Geeks Academy.
+**Data Scientist / Machine Learning** · Graduate of the Data Science & Machine Learning bootcamp at 4Geeks Academy.
 
-Convierto datos en decisiones: limpieza y análisis de datos, visualización y modelos de machine learning.
+I turn data into decisions: data cleaning and analysis, visualization, and machine learning models.
 
-- 🔭 Buscando mi primera oportunidad en data science / análisis de datos
-- 🌱 Practicando cada día con proyectos reales
-- 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/brenda-nelly-campos-cobe%C3%B1as-3b84b230a/) · 📧 brenda17bcc@gmail.com
+- 🔭 Looking for my first opportunity in data science / data analysis
+- 🌱 Practicing every day with real projects
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brenda-nelly-campos-cobe%C3%B1as-3b84b230a/) · 📧 brenda17bcc@gmail.com
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
-- **Lenguajes:** Python, SQL
-- **Análisis de datos:** pandas, NumPy
-- **Visualización:** Matplotlib, Seaborn
+- **Languages:** Python, SQL
+- **Data analysis:** pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
 - **Machine Learning:** scikit-learn
-- **Herramientas:** Jupyter Notebook, Git & GitHub
+- **Tools:** Jupyter Notebook, Git & GitHub
 
-## 📊 Proyectos destacados
+## 📊 Featured Projects
 
-- [Analizador de ventas mensuales](https://github.com/brenda17bcc/monthly-sales-analyzer-project) — Análisis de ventas con Python y pandas.
-- [Limpieza de datos con pandas](https://github.com/brenda17bcc/data-clean-up-pandas-for-beginners-project) — Preparación y limpieza de datos.
-- [Análisis exploratorio con SQL](https://github.com/brenda17bcc/exploratory-sql-analysis-project) — Consultas y exploración de datos con SQL.
-- [Visualización con Matplotlib y Seaborn](https://github.com/brenda17bcc/visualization-exercises-with-matplot-and-seaborn) — Gráficos y visualización de datos.
+- [Monthly Sales Analyzer](https://github.com/brenda17bcc/monthly-sales-analyzer-project) — Sales analysis with Python and pandas.
+- [Data Cleaning with pandas](https://github.com/brenda17bcc/data-clean-up-pandas-for-beginners-project) — Data preparation and cleaning.
+- [Exploratory SQL Analysis](https://github.com/brenda17bcc/exploratory-sql-analysis-project) — Data querying and exploration with SQL.
+- [Data Visualization with Matplotlib & Seaborn](https://github.com/brenda17bcc/visualization-exercises-with-matplot-and-seaborn) — Charts and data visualization.
+- [Sentiment Classifier (Naive Bayes)](https://github.com/brenda17bcc/proyecto-naive-bayes-) — NLP text classification.
+- [Diabetes Prediction (Decision Tree)](https://github.com/brenda17bcc/arbol-de-decision-) — Supervised classification model.
